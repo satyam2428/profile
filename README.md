@@ -1,2 +1,2 @@
-# profiie
+# profile
 portfolio
